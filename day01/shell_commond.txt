@@ -1,0 +1,29 @@
+通过ctrl+alt +t ,shift+ctrl + t , shift+ctrl+n 都可以快速打开一个终端
+
+echo 想到与Linux中的print函数, >file, >>file , <file
+
+echo 'xxx' >> file 追加到文件末尾中 
+touch 创建一个空文件
+cp ： 复制文件/文件另存， -r 可以复制文件目录
+mv： 移动文件/文件重命名
+zip 
+unzip
+
+tar -cvjf filename bzip2压缩
+tar -cvzf filename gzip 压缩
+tar -xvf 解压文件
+
+用户管理
+adduser
+passwd
+deluser
+delgroup
+chown
+
+kill 命令
+先使用ps查找进程pro1，然后用kill杀掉
+kill -9 $(ps -ef | grep pro1)
+
+ps 命令
+ps process status 用来查看当前运行的进程状态
+
