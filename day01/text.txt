@@ -3,3 +3,6 @@
 drwxr-xr-x 2 tarena tarena 4096 2月   6 09:35 .
 drwxr-xr-x 4 tarena tarena 4096 2月   6 09:27 ..
 -rw-r--r-- 1 tarena tarena  117 2月   6 09:35 text.txt
+
+
+Test the git workspace
