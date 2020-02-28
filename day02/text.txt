@@ -1,0 +1,5 @@
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/local/go/bin
+总用量 12
+drwxr-xr-x 2 tarena tarena 4096 2月   6 09:35 .
+drwxr-xr-x 4 tarena tarena 4096 2月   6 09:27 ..
+-rw-r--r-- 1 tarena tarena  117 2月   6 09:35 text.txt
